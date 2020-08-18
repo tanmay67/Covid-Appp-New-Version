@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,aACE,+BACF,CAEA,MAEE,mCACF,CAEA,GACE,sCAAwC,CACxC,cACF","file":"main.b1c749a6.chunk.css","sourcesContent":[".shadow-card {\n  box-shadow: 5px 5px 5px 5px #888888;\n}\n\nh2,\nh4 {\n  font-family: 'Jockey One', sans-serif;\n}\n\nh5 {\n  font-family: 'Nanum Pen Script', cursive;\n  font-size: 30px;\n}\n"]}
