@@ -1,0 +1,4 @@
+export const STATE_WISE_DATA = 'STATE_WISE_DATA';
+export const SET_LOADING = 'SET_LOADING';
+export const COUNTRY_DATA = 'COUNTRY_DATA';
+export const SET_LOADING_COUNTRY = 'SET_LOADING_COUNTRY';

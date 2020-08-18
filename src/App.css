@@ -1,0 +1,13 @@
+.shadow-card {
+  box-shadow: 5px 5px 5px 5px #888888;
+}
+
+h2,
+h4 {
+  font-family: 'Jockey One', sans-serif;
+}
+
+h5 {
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 30px;
+}
